@@ -37,4 +37,4 @@ function lightStart(){
     timerTile=setInterval(randomTile,2000);
 }
 
-//lightStart();
+
